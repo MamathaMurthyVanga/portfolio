@@ -1,7 +1,6 @@
 import React from 'react';
 import '../styles/Home.css';  // Updated path
 import ProfileImage from '../assets/murthy.png';
-import CardBackground from '../assets/code.jpeg';
 import PythonLogo from '../assets/python.jpeg';
 import DjangoLogo from '../assets/django.jpeg';
 import MySQLLogo from '../assets/mysql.png';
